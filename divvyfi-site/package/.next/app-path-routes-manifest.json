@@ -1,0 +1,9 @@
+{
+  "/favicon.ico/route": "/favicon.ico",
+  "/api/page-data/route": "/api/page-data",
+  "/(site)/(auth)/signin/page": "/signin",
+  "/(site)/(auth)/signup/page": "/signup",
+  "/(site)/documentation/page": "/documentation",
+  "/_not-found/page": "/_not-found",
+  "/page": "/"
+}
